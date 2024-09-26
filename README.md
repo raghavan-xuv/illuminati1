@@ -1,4 +1,3 @@
-# illuminati1
 # SwasthyaChain : Health Records Management Using Blockchain
 
 
